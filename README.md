@@ -1,6 +1,10 @@
 # DHT-22-CON-LCD
 Esta practica además de mostrar temperatura y humedad, mostrara nuestro nombre, y el modulo que se esta cursando.
 
+Cargamos la libreria DHT;
+
+![](https://github.com/IVANZAGAL996/PRACTICA-DHT-22/blob/main/Captura%20de%20pantalla%20(338).png?raw=true)
+
 
 ```
 #include "DHTesp.h"
