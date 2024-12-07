@@ -62,5 +62,11 @@ delay(2000);
 ...
 
 INSERTAMOS EL DISPLAY:
+![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/LIBRERIAS%202.PNG)
+![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/LIBRERIAS%202.PNG)
 
-![]()
+Realizamos la siguiente conexion:
+
+
+
+
