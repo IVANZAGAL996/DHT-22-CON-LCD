@@ -3,8 +3,9 @@ Esta practica además de mostrar temperatura y humedad, mostrara nuestro nombre,
 
 Cargamos las siguientes librerias:
 
-![]()
+![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/LIBRERIAS%202.PNG)
 
+Realizamos el siguiente codigo en el sketch:
 
 ```
 #include "DHTesp.h"
@@ -58,6 +59,8 @@ delay(2000);
 
  
 }
-
-
 ...
+
+INSERTAMOS EL DISPLAY:
+
+![]()
