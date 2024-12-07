@@ -5,9 +5,11 @@ Cargamos las siguientes librerias:
 
 ![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/LIBRERIAS%202.PNG)
 
+
 Realizamos el siguiente codigo en el sketch:
 
 ```
+ Hola adios
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
 #define I2C_ADDR    0x27
@@ -59,13 +61,21 @@ delay(2000);
 
  
 }
-...
+ ```
+
+Insertamos el display;
+
+![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/LCD12.PNG)
+
+Realizamos la sig conexion
+
+![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/CONEXION%202.PNG)
 
 
-INSERTAMOS EL DISPLAY:
-![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/LIBRERIAS%202.PNG)
 
-Realizamos la siguiente conexion:
+
+
+
 
 
 
