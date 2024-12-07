@@ -72,6 +72,15 @@ Realizamos la sig conexion
 ![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/CONEXION%202.PNG)
 
 
+OBTENEMOS LOS SIGUIENTES RESULTADOS:
+
+![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/r1.png)
+
+![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/r2.png)
+
+![](https://github.com/IVANZAGAL996/DHT-22-CON-LCD/blob/main/r3.png)
+
+
 
 
 
