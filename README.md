@@ -9,7 +9,7 @@ Cargamos las siguientes librerias:
 Realizamos el siguiente codigo en el sketch:
 
 ```
- Hola adios
+ 
 #include "DHTesp.h"
 #include <LiquidCrystal_I2C.h>
 #define I2C_ADDR    0x27
